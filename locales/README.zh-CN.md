@@ -1,5 +1,7 @@
 # FFMedia 使用指南
 
+[**English**](../README.md) | **简体中文**
+
 ## 什么是 FFMedia？
 
 RK3588 系列芯片拥有超强的视频编解码能力，尤其在多路视频并发处理上表现优异。然而我们在视频处理应用开发时，经常面对 gstreamer、ffmpeg 等通用框架未能充分发挥芯片性能、官方原始 api 太靠近底层、学习成本高、周期长、开发工作量大等问题。
@@ -53,7 +55,7 @@ git clone https://github.com/Firefly-rk-linux-utils/ffmedia_release.git
 
 C++ 语言范式：
 
-```py
+```cpp
 auto rtsp_c = make_shared<ModuleRtspClient>("rtsp://xxx");
 auto ret = rtsp_c->init()
 ```

@@ -1,5 +1,7 @@
 # FFMedia User Guide
 
+**English** | [**简体中文**](locales/README.zh-CN.md)
+
 ## What is FFMedia?
 
 The RK3588 series chips possess exceptional video encoding and decoding capabilities, especially excelling in concurrent multi-channel video processing. However, during video processing application development, we often face issues where general-purpose frameworks like GStreamer and FFmpeg fail to fully leverage the chip's performance. Furthermore, official raw APIs are often too low-level, resulting in high learning costs, long development cycles, and significant workload.
