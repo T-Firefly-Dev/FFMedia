@@ -384,6 +384,10 @@ This command defines **three modules** (src/dec/out), **two parameter settings**
 
 **Interpreting the output — mapping to three core concepts:**
 
+![FFMedia RUN 1](res/06-ffmedia-run-1.png)
+
+![FFMedia RUN 2](res/07-ffmedia-run-2.png)
+
 The first is **lifecycle states**:
 
 ```bash

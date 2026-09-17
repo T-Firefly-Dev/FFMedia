@@ -384,6 +384,10 @@ Parameters for cam:
 
 **输出解读 —— 对应三个核心概念:**
 
+![FFMedia RUN 1](../res/06-ffmedia-run-1.png)
+
+![FFMedia RUN 2](../res/07-ffmedia-run-2.png)
+
 第一是**生命周期状态**：
 
 ```bash
